@@ -4,7 +4,7 @@ This repository contains stock boundaries for five cetacean species with island-
 
 The repository includes a folder for each species, with shapefiles containing line features (current projection: WGS_1984_UTM_Zone_4N) included within. All shapefiles were created (from either archived point data or originally) by Amanda Bradford at the NOAA Fisheries Pacific Islands Fisheries Science Center. For ease and simplicity, metadata for each shapefile were entered using the "Item Description" style in ArcGIS Desktop, but this may updated in the future. Relevant metadata aggregated by species are included below for ease of viewing.
 
-Downloading individual folders from GitHub is not intuitive. The easiest way to obtain the stock boundaries is to download the repository by clicking on the green "Code" button in the upper right and selecting "Download ZIP". You can then delete the files and folders you do not need. If you have any questions or issues with the boundary files, please contact Amanda Bradford at \<amanda.bradford\@noaa.gov\>.
+Downloading individual folders from GitHub is not intuitive. The easiest way to obtain the stock boundaries is to download the repository by clicking on the green "Code" button in the upper right and selecting "Download ZIP". You can then delete the files and folders you do not need. If you have any questions or issues with the boundary files, please contact Amanda Bradford at amanda.bradford\@noaa.gov.
 
 ## Bottlenose dolphins
 
